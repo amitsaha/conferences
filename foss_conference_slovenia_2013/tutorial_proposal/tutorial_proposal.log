@@ -1,0 +1,234 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.13 (TeX Live 2013/dev) (format=latex 2013.1.24)  26 JAN 2013 11:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**tutorial_proposal.tex
+(./tutorial_proposal.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(./svmult.cls
+Document Class: svmult 2006/08/22 v3.24 
+Springer Verlag global LaTeX document class for multi authored books
+(./svifip.clo
+File: svifip.clo 2005/04/20 v1.0 SVMult class option for the Springer IFIP seri
+es
+) (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\betweenumberspace=\dimen103
+\headlineindent=\dimen104
+\minitoc=\write3
+\c@minitocdepth=\count87
+\c@chapter=\count88
+\svitemindent=\dimen105
+\verbatimindent=\dimen106
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 715.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 716.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 717.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 718.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 719.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 720.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 721.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 722.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 723.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 724.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 725.
+\tocchpnum=\dimen107
+\tocsecnum=\dimen108
+\tocsectotal=\dimen109
+\tocsubsecnum=\dimen110
+\tocsubsectotal=\dimen111
+\tocsubsubsecnum=\dimen112
+\tocsubsubsectotal=\dimen113
+\tocparanum=\dimen114
+\tocparatotal=\dimen115
+\tocsubparanum=\dimen116
+\foot@parindent=\dimen117
+\spthmsep=\dimen118
+\c@theorem=\count89
+\c@case=\count90
+\c@conjecture=\count91
+\c@corollary=\count92
+\c@definition=\count93
+\c@example=\count94
+\c@exercise=\count95
+\c@lemma=\count96
+\c@note=\count97
+\c@problem=\count98
+\c@property=\count99
+\c@proposition=\count100
+\c@question=\count101
+\c@solution=\count102
+\c@remark=\count103
+\instindent=\dimen119
+\figgap=\dimen120
+\figcapgap=\dimen121
+\tabcapgap=\dimen122
+\c@merk=\count104
+\c@@inst=\count105
+\c@@auth=\count106
+\c@auco=\count107
+\instindent=\dimen123
+\authrun=\box26
+\authorrunning=\toks14
+\tocauthor=\toks15
+\titrun=\box27
+\titlerunning=\toks16
+\toctitle=\toks17
+\c@contribution=\count108
+)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
++ svifip.clo 2005/04/20 v1.0 SVMult class option to + 
++ establish the layout for Springer IFIP volumes    + 
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+\svitemindent=\dimen124
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+)
+\epsfxsize=\dimen127
+\epsfysize=\dimen128
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count109
+\mult@box=\box28
+\multicol@leftmargin=\dimen129
+\c@unbalance=\count110
+\c@collectmore=\count111
+\doublecol@number=\count112
+\multicoltolerance=\count113
+\multicolpretolerance=\count114
+\full@width=\dimen130
+\page@free=\dimen131
+\premulticols=\dimen132
+\postmulticols=\dimen133
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box29
+\last@line=\box30
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count115
+\c@finalcolumnbadness=\count116
+\last@try=\dimen134
+\multicolovershoot=\dimen135
+\multicolundershoot=\dimen136
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\multicol@sort@counter=\count117
+)
+(/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks19
+\footnotemargin=\dimen137
+\c@pp@next@reset=\count118
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+(./tutorial_proposal.aux)
+\openout1 = `tutorial_proposal.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 37.
+[1
+
+
+
+] [2] (./tutorial_proposal.aux) ) 
+Here is how much of TeX's memory you used:
+ 1313 strings out of 495064
+ 15819 string characters out of 3182217
+ 74534 words of memory out of 3000000
+ 4536 multiletter control sequences out of 15000+200000
+ 5840 words of font info for 21 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 32i,5n,21p,263b,175s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on tutorial_proposal.dvi (2 pages, 6224 bytes).
